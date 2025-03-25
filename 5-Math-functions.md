@@ -19,7 +19,7 @@ SELECT ROUND(3.14159, 2);
 ```
 
 ## Truncate
-The truncate function truncates a number to a specified number of decimal places.
+The truncate function truncates/ shorten a number to a specified number of decimal places.
 ```sql
 SELECT TRUNCATE(3.14159, 2);
 ```
